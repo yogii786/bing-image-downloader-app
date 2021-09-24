@@ -1,5 +1,5 @@
 ## bing image downloader app
-![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/prakashanalyst/bing-image-downloader-app/main/app.py)
 ![python](https://img.shields.io/badge/Python-0078D4?style=flat-square&logo=python&logoColor=white)
 ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20terminal&logoColor=white)
